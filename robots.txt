@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-zhpn1p.indcuan.cfd/sitemap.xml
